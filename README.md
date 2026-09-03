@@ -25,7 +25,7 @@
 $$\begin{aligned}
 \delta(q_0, /) &= \{q_1\} & \delta(q_2, /) &= \{q_2\} & \delta(q_4, /) &= \emptyset \\
 \delta(q_0, *) &= \emptyset & \delta(q_2, *) &= \{q_3\} & \delta(q_4, *) &= \emptyset \\
-\delta(q_0, a) &= \emptyset & \delta(q_2, a) &= \{q_2\} & \delta(q_4, j) &= \emptyset \\
+\delta(q_0, a) &= \emptyset & \delta(q_2, a) &= \{q_2\} & \delta(q_4, a) &= \emptyset \\
 \\
 \delta(q_1, /) &= \emptyset & \delta(q_3, /) &= \{q_4\} \\
 \delta(q_1, *) &= \{q_2\} & \delta(q_3, *) &= \{q_3\} \\
