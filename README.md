@@ -1,3 +1,4 @@
+<img width="2187" height="3030" alt="NFApaper_RICO" src="https://github.com/user-attachments/assets/d1cb2778-5418-4e68-9b26-ff5f3ecf6d4c" />
 # CS13_NFA
 
 
@@ -35,4 +36,5 @@ $$\begin{aligned}
 ---
 
 ## Transition Details
+<img width="2187" height="3030" alt="NFApaper_RICO" src="https://github.com/user-attachments/assets/a759c3ae-dc2c-4317-88f7-83ab9c675677" />
 
