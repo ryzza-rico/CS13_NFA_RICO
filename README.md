@@ -1,4 +1,3 @@
-<img width="2187" height="3030" alt="NFApaper_RICO" src="https://github.com/user-attachments/assets/d1cb2778-5418-4e68-9b26-ff5f3ecf6d4c" />
 # CS13_NFA
 
 
